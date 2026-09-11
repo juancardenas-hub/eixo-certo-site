@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# Amostra de layout. A versão pública entra com `npm run build:prod`.
