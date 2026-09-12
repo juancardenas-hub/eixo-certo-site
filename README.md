@@ -8,12 +8,15 @@ provisório: depoimentos, certificados e parte dos números aparecem como espaç
 reservados, marcados como tais na própria página. O site está fechado para
 indexação enquanto estiver nesse estado.
 
-Três direções visuais, para escolha:
+Quatro direções visuais, para escolha:
 
 - **A** — `/a/` · chão de fábrica: fundo escuro, tipografia condensada
 - **B** — `/b/` · engenharia clara: fundo claro, tipografia leve
 - **C** — `/c/` · engenharia pesada: grafite fria, e a página argumenta em
   outra ordem — prova e método antes do pedido de contato
+- **D** — `/d/` · estrutura e 3D: a ordem da C com alternância claro/escuro e o
+  caminhão em 3D real no herói e na seção do eixo (gira, aproxima, funciona no
+  celular). As imagens das linhas e da fábrica são provisórias, geradas por IA.
 
 O seletor de eixo fica em `/a/produtos/` e `/b/produtos/`.
 
