@@ -8,11 +8,13 @@ provisório: depoimentos, certificados e parte dos números aparecem como espaç
 reservados, marcados como tais na própria página. O site está fechado para
 indexação enquanto estiver nesse estado.
 
-Duas direções visuais, para escolha:
+Três direções visuais, para escolha:
 
 - **A** — `/a/` · chão de fábrica: fundo escuro, tipografia condensada
 - **B** — `/b/` · engenharia clara: fundo claro, tipografia leve
+- **C** — `/c/` · engenharia pesada: grafite fria, e a página argumenta em
+  outra ordem — prova e método antes do pedido de contato
 
-O seletor de eixo de cada direção fica em `/a/produtos/` e `/b/produtos/`.
+O seletor de eixo fica em `/a/produtos/` e `/b/produtos/`.
 
 Este repositório contém apenas os arquivos gerados. O código-fonte é privado.
